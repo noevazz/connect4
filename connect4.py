@@ -1,6 +1,3 @@
-from importlib.util import set_loader
-
-
 class Vector2:
     def __init__(self, x, y):
         self.x = x
